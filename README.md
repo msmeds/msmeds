@@ -1,5 +1,5 @@
 ### Thank you for visting my GitHub!!
-I am a <b>GIS</b> 🗺️ and <b>remote sensing</b> 🛰️ professional passionate about using spatial data and statistics to solve <p>Earth's most pressing problems</p> 🌎.
+I am a <b>GIS</b> 🗺️ and <b>remote sensing</b> 🛰️ professional passionate about using spatial data and statistics to solve <i>Earth's most pressing problems</i> 🌎.
 
 - 🛠️I am familiar with the following languages to varying degrees: R, Python, Unix/Linux, SQL, Git, MATLAB, Fortran 
 
